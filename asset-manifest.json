@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.c5b9c920.chunk.css",
+    "main.js": "/personal-website/static/js/main.a39a43b6.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.a39a43b6.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.4cf54adf.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.4cf54adf.js.map",
+    "static/js/2.d198cfaa.chunk.js": "/personal-website/static/js/2.d198cfaa.chunk.js",
+    "static/js/2.d198cfaa.chunk.js.map": "/personal-website/static/js/2.d198cfaa.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.fd291e66c45611b61b1745d4d48cf699.js": "/personal-website/precache-manifest.fd291e66c45611b61b1745d4d48cf699.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/main.c5b9c920.chunk.css.map": "/personal-website/static/css/main.c5b9c920.chunk.css.map",
+    "static/media/codebase.png": "/personal-website/static/media/codebase.c20eeb3e.png",
+    "static/media/logo.svg": "/personal-website/static/media/logo.25bf045c.svg",
+    "static/media/map2.png": "/personal-website/static/media/map2.79440d6e.png",
+    "static/media/nanomed.png": "/personal-website/static/media/nanomed.d5af2d0e.png",
+    "static/media/ohp.png": "/personal-website/static/media/ohp.b114096d.png",
+    "static/media/resize.jpg": "/personal-website/static/media/resize.7c5c3da5.jpg",
+    "static/media/rfdsp.png": "/personal-website/static/media/rfdsp.c361f584.png"
+  }
+}
