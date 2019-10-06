@@ -1,7 +1,7 @@
 import React from "react";
 class Contact extends React.Component {
     render(){
-      return <p> your magic number is ur mom </p>;
+      return <p> You Can Reach Me @: </p>;
     }
   }
 

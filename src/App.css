@@ -1,22 +1,178 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
   height: 40vmin;
 }
 
+.App-name {
+  font-size: calc(30px + 2vmin);
+  color: rgb(241, 156, 156);
+}
+
+.App-hi {
+  font-size: calc(30px + 2vmin);
+  color: rgb(97, 91, 91);
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color: #ffffff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(48, 48, 48);
+  display: inline-block;
+  margin: 200px;
+  margin-top: 75px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding-top: 400;
 }
 
 .App-link {
-  color: #09d3ac;
+  color: #083d8d;
+  align-items: center;
+}
+
+.App-about {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  font-size: calc(7px + 2vmin);
+  color: rgb(48, 48, 48);
+  display: inline-block;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.App-things {
+  margin-left: 100px;
+  margin-top: 200px;
+}
+
+.App-little {
+  margin-left: 300px;
+}
+
+.App-exp {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(48, 48, 48);
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.App-rf {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: left;
+  font-size: calc(8px + 2vmin);
+  color: rgb(48, 48, 48);
+  display: block;
+  margin-top: 200px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.App-nano {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: left;
+  font-size: calc(8px + 2vmin);
+  color: rgb(48, 48, 48);
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.App-cb {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: left;
+  font-size: calc(8px + 2vmin);
+  color: rgb(48, 48, 48);
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.App-cs {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: left;
+  font-size: calc(8px + 2vmin);
+  color: rgb(48, 48, 48);
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.App-dpr {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: left;
+  font-size: calc(8px + 2vmin);
+  color: rgb(48, 48, 48);
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.App-ohp {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: left;
+  font-size: calc(8px + 2vmin);
+  color: rgb(48, 48, 48);
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.App-contact {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(48, 48, 48);
+  display: block;
+  margin: 200px;
+  margin-top: 75px;
+  margin-left: 400px;
+  margin-right: 300px;
+  padding-top: 400;
 }
